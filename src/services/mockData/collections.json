@@ -1,0 +1,72 @@
+[
+  {
+    "id": "col_1",
+    "name": "Project Assets",
+    "files": ["1", "6", "12", "14"],
+    "createdDate": "2024-01-10T10:00:00Z",
+    "sharedWith": ["team@company.com", "client@example.com"]
+  },
+  {
+    "id": "col_2",
+    "name": "Personal Documents",
+    "files": ["2", "3", "7"],
+    "createdDate": "2024-01-08T14:30:00Z",
+    "sharedWith": []
+  },
+  {
+    "id": "col_3",
+    "name": "Media Collection",
+    "files": ["4", "8", "9", "10"],
+    "createdDate": "2024-01-05T16:45:00Z",
+    "sharedWith": ["social@company.com"]
+  },
+  {
+    "id": "col_4",
+    "name": "Work Files",
+    "files": ["5", "11", "13", "15"],
+    "createdDate": "2024-01-03T09:15:00Z",
+    "sharedWith": ["manager@company.com", "hr@company.com"]
+  },
+  {
+    "id": "col_5",
+    "name": "Design Resources",
+    "files": ["6", "12", "14"],
+    "createdDate": "2024-01-01T12:00:00Z",
+    "sharedWith": ["design-team@company.com"]
+  },
+  {
+    "id": "col_6",
+    "name": "Backup Files",
+    "files": ["11", "15"],
+    "createdDate": "2023-12-28T18:30:00Z",
+    "sharedWith": []
+  },
+  {
+    "id": "col_7",
+    "name": "Client Presentations",
+    "files": ["2", "4", "8"],
+    "createdDate": "2023-12-25T11:20:00Z",
+    "sharedWith": ["client1@example.com", "client2@example.com"]
+  },
+  {
+    "id": "col_8",
+    "name": "Research Materials",
+    "files": ["13", "9"],
+    "createdDate": "2023-12-20T13:45:00Z",
+    "sharedWith": ["research@university.edu"]
+  },
+  {
+    "id": "col_9",
+    "name": "Marketing Assets",
+    "files": ["10", "12", "14"],
+    "createdDate": "2023-12-15T15:10:00Z",
+    "sharedWith": ["marketing@company.com"]
+  },
+  {
+    "id": "col_10",
+    "name": "Archive 2023",
+    "files": ["1", "15"],
+    "createdDate": "2023-12-31T23:59:00Z",
+    "sharedWith": []
+  }
+]

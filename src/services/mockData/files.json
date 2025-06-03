@@ -1,0 +1,152 @@
+[
+  {
+    "id": "1",
+    "name": "vacation-photos-2024.zip",
+    "size": 15728640,
+    "type": "application/zip",
+    "uploadDate": "2024-01-15T10:30:00Z",
+    "lastModified": "2024-01-15T10:30:00Z",
+    "thumbnail": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=200&h=200&fit=crop",
+    "tags": ["vacation", "photos", "archive"]
+  },
+  {
+    "id": "2",
+    "name": "presentation-deck.pdf",
+    "size": 2457600,
+    "type": "application/pdf",
+    "uploadDate": "2024-01-14T14:22:00Z",
+    "lastModified": "2024-01-14T14:22:00Z",
+    "thumbnail": null,
+    "tags": ["work", "presentation", "pdf"]
+  },
+  {
+    "id": "3",
+    "name": "profile-picture.jpg",
+    "size": 1024000,
+    "type": "image/jpeg",
+    "uploadDate": "2024-01-13T09:15:00Z",
+    "lastModified": "2024-01-13T09:15:00Z",
+    "thumbnail": "https://images.unsplash.com/photo-1494790108755-2616b612b743?w=200&h=200&fit=crop",
+    "tags": ["profile", "photo", "personal"]
+  },
+  {
+    "id": "4",
+    "name": "meeting-recording.mp4",
+    "size": 52428800,
+    "type": "video/mp4",
+    "uploadDate": "2024-01-12T16:45:00Z",
+    "lastModified": "2024-01-12T16:45:00Z",
+    "thumbnail": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=200&h=200&fit=crop",
+    "tags": ["meeting", "video", "work"]
+  },
+  {
+    "id": "5",
+    "name": "budget-spreadsheet.xlsx",
+    "size": 512000,
+    "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "uploadDate": "2024-01-11T11:30:00Z",
+    "lastModified": "2024-01-11T11:30:00Z",
+    "thumbnail": null,
+    "tags": ["budget", "finance", "spreadsheet"]
+  },
+  {
+    "id": "6",
+    "name": "design-mockups.sketch",
+    "size": 8388608,
+    "type": "application/sketch",
+    "uploadDate": "2024-01-10T13:20:00Z",
+    "lastModified": "2024-01-10T13:20:00Z",
+    "thumbnail": "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=200&h=200&fit=crop",
+    "tags": ["design", "mockup", "ui"]
+  },
+  {
+    "id": "7",
+    "name": "contract-document.docx",
+    "size": 204800,
+    "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "uploadDate": "2024-01-09T08:45:00Z",
+    "lastModified": "2024-01-09T08:45:00Z",
+    "thumbnail": null,
+    "tags": ["contract", "legal", "document"]
+  },
+  {
+    "id": "8",
+    "name": "product-demo.gif",
+    "size": 3145728,
+    "type": "image/gif",
+    "uploadDate": "2024-01-08T15:10:00Z",
+    "lastModified": "2024-01-08T15:10:00Z",
+    "thumbnail": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=200&h=200&fit=crop",
+    "tags": ["demo", "product", "animation"]
+  },
+  {
+    "id": "9",
+    "name": "podcast-episode.mp3",
+    "size": 25165824,
+    "type": "audio/mpeg",
+    "uploadDate": "2024-01-07T12:00:00Z",
+    "lastModified": "2024-01-07T12:00:00Z",
+    "thumbnail": null,
+    "tags": ["podcast", "audio", "interview"]
+  },
+  {
+    "id": "10",
+    "name": "team-photo.png",
+    "size": 4194304,
+    "type": "image/png",
+    "uploadDate": "2024-01-06T14:30:00Z",
+    "lastModified": "2024-01-06T14:30:00Z",
+    "thumbnail": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=200&h=200&fit=crop",
+    "tags": ["team", "photo", "group"]
+  },
+  {
+    "id": "11",
+    "name": "data-backup.sql",
+    "size": 10485760,
+    "type": "application/sql",
+    "uploadDate": "2024-01-05T20:15:00Z",
+    "lastModified": "2024-01-05T20:15:00Z",
+    "thumbnail": null,
+    "tags": ["backup", "database", "sql"]
+  },
+  {
+    "id": "12",
+    "name": "website-icons.svg",
+    "size": 131072,
+    "type": "image/svg+xml",
+    "uploadDate": "2024-01-04T10:45:00Z",
+    "lastModified": "2024-01-04T10:45:00Z",
+    "thumbnail": "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=200&h=200&fit=crop",
+    "tags": ["icons", "svg", "web"]
+  },
+  {
+    "id": "13",
+    "name": "research-notes.md",
+    "size": 32768,
+    "type": "text/markdown",
+    "uploadDate": "2024-01-03T16:20:00Z",
+    "lastModified": "2024-01-03T16:20:00Z",
+    "thumbnail": null,
+    "tags": ["research", "notes", "markdown"]
+  },
+  {
+    "id": "14",
+    "name": "logo-variations.ai",
+    "size": 6291456,
+    "type": "application/illustrator",
+    "uploadDate": "2024-01-02T11:00:00Z",
+    "lastModified": "2024-01-02T11:00:00Z",
+    "thumbnail": "https://images.unsplash.com/photo-1611348586804-61bf6c080437?w=200&h=200&fit=crop",
+    "tags": ["logo", "design", "illustrator"]
+  },
+  {
+    "id": "15",
+    "name": "training-materials.zip",
+    "size": 20971520,
+    "type": "application/zip",
+    "uploadDate": "2024-01-01T09:30:00Z",
+    "lastModified": "2024-01-01T09:30:00Z",
+    "thumbnail": null,
+    "tags": ["training", "materials", "archive"]
+  }
+]
